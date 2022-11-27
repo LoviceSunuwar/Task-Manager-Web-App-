@@ -1,0 +1,23 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 17, 255, 0),
+    rgb(87, 136, 209)
+  );
+}
+
+*:focus {
+  outline: none;
+}
+
+.input {
+  border: none;
+}
+
+.input:focus {
+  outline: none;
+}
+
+body {
+  list-style: none;
+}

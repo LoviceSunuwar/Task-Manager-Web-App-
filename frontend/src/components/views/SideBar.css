@@ -1,0 +1,37 @@
+.sideBarTextColor {
+  color: white;
+}
+
+.navBG {
+  background-color: #514392;
+}
+
+.spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #514392;
+}
+
+.spinner img {
+  background-color: #514392;
+}
+
+.hrColor {
+  /* color: #514392; */
+  border-top: 1.5px solid #514392;
+}
+
+#bgcolor {
+  background-color: #6e5cc2;
+}
+.side__bar {
+  height: auto;
+  padding-bottom: 50px;
+  padding-right: 30px;
+}
+
+.navbar-nav > li {
+  padding-left: 50%;
+  padding-right: 40%;
+}
